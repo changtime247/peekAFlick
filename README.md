@@ -1,8 +1,8 @@
 # Peek a Flick
 
 Search for a movie by title. :mag_right:
-
 Preview that movie. :movie_camera:
+[live-site](https://peekaflick.netlify.app/)
 
 https://user-images.githubusercontent.com/86252224/189141529-728dd18c-5da8-46f8-8bef-7ed0ede4369f.mp4
 
